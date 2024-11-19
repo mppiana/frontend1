@@ -41,7 +41,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-100 blur-on-hover"
-              src="profile.png"
+              src="/images/profile.png"
               alt="First slide"
             />
             <Carousel.Caption>
@@ -53,7 +53,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-100 blur-on-hover"
-              src="education.jpg"
+              src="/images/education.jpg"
               alt="Second slide"
             />
             <Carousel.Caption>
@@ -65,7 +65,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-100 blur-on-hover"
-              src="hobbies.jpg"
+              src="/images/hobbies.jpg"
               alt="Third slide"
             />
             <Carousel.Caption>
@@ -77,7 +77,7 @@ const Home = () => {
           <Carousel.Item>
             <img
               className="d-block w-100 blur-on-hover"
-              src="contact.jpg"
+              src="/images/contact.jpg"
               alt="Fourth slide"
             />
             <Carousel.Caption>

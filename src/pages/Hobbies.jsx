@@ -32,7 +32,7 @@ const Hobbies = () => {
           <Card className="h-100 shadow" style={{ borderRadius: '15px', backgroundColor: '#ffffff' }}>
             <Card.Img
               variant="top"
-              src="phot.jpeg" // Replace with the actual image URL
+              src="/images/phot.jpeg" // Replace with the actual image URL
               style={{ height: '200px', objectFit: 'cover', borderRadius: '15px 15px 0 0' }}
               alt="Hobby 1"
             />
@@ -50,7 +50,7 @@ const Hobbies = () => {
           <Card className="h-100 shadow" style={{ borderRadius: '15px', backgroundColor: '#ffffff' }}>
             <Card.Img
               variant="top"
-              src="gym.jpeg" // Replace with the actual image URL
+              src="/images/gym.jpeg" // Replace with the actual image URL
               style={{ height: '200px', objectFit: 'cover', borderRadius: '15px 15px 0 0' }}
               alt="Hobby 2"
             />
@@ -70,7 +70,7 @@ const Hobbies = () => {
           <Card className="h-100 shadow" style={{ borderRadius: '15px', backgroundColor: '#ffffff' }}>
             <Card.Img
               variant="top"
-              src="cook.jpg" // Replace with the actual image URL
+              src="/images/cook.jpg" // Replace with the actual image URL
               style={{ height: '200px', objectFit: 'cover', borderRadius: '15px 15px 0 0' }}
               alt="Hobby 3"
             />
@@ -88,7 +88,7 @@ const Hobbies = () => {
           <Card className="h-100 shadow" style={{ borderRadius: '15px', backgroundColor: '#ffffff' }}>
             <Card.Img
               variant="top"
-              src="vg.jpg" // Replace with the actual image URL
+              src="/images/vg.jpg" // Replace with the actual image URL
               style={{ height: '200px', objectFit: 'cover', borderRadius: '15px 15px 0 0' }}
               alt="Hobby 4"
             />

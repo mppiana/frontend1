@@ -31,7 +31,7 @@ const Educ = () => {
             <Card className="h-100 shadow">
               <Card.Img
                 variant="top"
-                src="collegelog.jpg" // Replace with actual logo URL
+                src="/images/collegelog.jpg" // Replace with actual logo URL
                 style={{ height: '150px', objectFit: 'contain' }}
                 alt="College Logo"
               />
@@ -65,7 +65,7 @@ const Educ = () => {
             <Card className="h-100 shadow">
               <Card.Img
                 variant="top"
-                src="hslog.jpg" // Replace with actual logo URL
+                src="/images/hslog.jpg" // Replace with actual logo URL
                 style={{ height: '150px', objectFit: 'contain' }}
                 alt="High School Logo"
               />
@@ -98,7 +98,7 @@ const Educ = () => {
             <Card className="h-100 shadow">
               <Card.Img
                 variant="top"
-                src="elemlog.png" // Replace with actual logo URL
+                src="/images/elemlog.png" // Replace with actual logo URL
                 style={{ height: '150px', objectFit: 'contain' }}
                 alt="Elementary School Logo"
               />

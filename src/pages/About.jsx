@@ -38,7 +38,7 @@ const About = () => {
         <Row className="mt-5">
           <Col md={4}>
             <img
-              src="me.jpg" // Replace with your image path
+              src="/images/me.jpg" // Replace with your image path
               alt="Profile"
               className="img-fluid rounded-circle"
               style={{ maxWidth: '250px', marginBottom: '20px' }}
