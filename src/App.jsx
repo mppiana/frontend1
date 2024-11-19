@@ -7,7 +7,7 @@ import Home from './pages/home';
 import About from './pages/About';
 import Educ from './pages/Educ'; 
 import Hobbies from './pages/Hobbies'; 
-import Contact from './pages/Contact'; 
+import Contact from './pages/contact'; 
 
 // Import components
 import Navbar from './components/Navbar';
