@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Import pages
-import Home from './pages/Home';  
+import Home from './pages/home';  
 import About from './pages/About';
 import Educ from './pages/Educ'; 
 import Hobbies from './pages/Hobbies'; 
